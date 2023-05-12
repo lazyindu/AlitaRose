@@ -735,14 +735,14 @@ files = [
 
 [[package]]
 name = "pyclean"
-version = "2.6.0"
+version = "2.7.2"
 description = "Pure Python cross-platform pyclean. Clean up your Python bytecode."
 category = "dev"
 optional = false
 python-versions = "*"
 files = [
-    {file = "pyclean-2.6.0-py3-none-any.whl", hash = "sha256:fcf08662f86e146c0a1509d65a3624102797a74b1b65dacace2823e64462a52d"},
-    {file = "pyclean-2.6.0.tar.gz", hash = "sha256:9badd0a7f1539f522479e2db17f79df24c09e0300eeb696d37e3d40585078e27"},
+    {file = "pyclean-2.7.2-py3-none-any.whl", hash = "sha256:f6340b6c1a2ec69cabb6233f36077e99eaf0ca82bcbeb0149836508e10b5777a"},
+    {file = "pyclean-2.7.2.tar.gz", hash = "sha256:f1261e7922fb01ab17d1e7b807293100e6cf469896158bea3727d38a6fad3fb0"},
 ]
 
 [[package]]
@@ -1525,4 +1525,4 @@ testing = ["flake8 (<5)", "func-timeout", "jaraco.functools", "jaraco.itertools"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.7"
-content-hash = "cddbe56ebbc648003928547d968a764686682cba4fb2c89089d3e6ede1b17e08"
+content-hash = "4753673fd020852608abb370c61f193d55264d79fadca3392896026d58951f2f"
